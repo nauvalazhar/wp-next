@@ -1,0 +1,23 @@
+{
+  "name": "wp-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.4.0",
+    "autoprefixer": "^10.2.3",
+    "dompurify": "^2.2.6",
+    "isomorphic-dompurify": "^0.11.0",
+    "next": "10.0.5",
+    "postcss": "^8.2.4",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "superagent": "^6.1.0",
+    "tailwindcss": "^2.0.2",
+    "wpapi": "^1.2.1"
+  }
+}
